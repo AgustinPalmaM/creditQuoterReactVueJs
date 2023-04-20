@@ -1,7 +1,11 @@
 # Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# creditQuoterVueJs
 
-## Recommended IDE Setup
+This is a basic app to make a simulation of a financial credit made using Vue Js, we can select from a range input an amount between 0 and 20.000 and a payment period between 6 and 24 months, then we can see how automatically the app update the simulation with its total payment amount and the monthly payment amount
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+This project was made using vite with vue js and javascript, for styles was used tailwindcss.
+
+Finally you can chech a live demo deploy on netlify: https://shimmering-cendol-24c42e.netlify.app/
+
+![](public/preview.png)
